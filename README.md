@@ -6,7 +6,7 @@ I am a software engineer specializing in building high-end back-end services, we
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Telegram Badge](https://img.shields.io/badge/@MAKSUDKHOJA-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/MAKSUDKHOJA)](https://t.me/MAKSUDKHOJA) 
+[![Telegram Badge](https://img.shields.io/badge/@MAKSUDKHOJA-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/MAKSUDKHOJA)](https://t.me/MAKSUDKHOJA)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -15,6 +15,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :muscle: Do Bodybuilding and ARM WRESRLING
 - :rocket: Always ready to collaborate for Dev Experiments
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
 
 ## ⚡ Technologies
 ![Image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
