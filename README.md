@@ -11,7 +11,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on SQL & DJANGO
+- :computer: I'm currently working on Aiogram & DJANGO
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :muscle: Do Bodybuilding and ARM WRESRLING
 - :rocket: Always ready to collaborate for Dev Experiments
@@ -32,9 +32,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Image]()
-![Image]()
-![Image]()
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MAQSUDXOJA&show_icons=true&theme=gotham" alt="maqsud571" />
 
