@@ -5,11 +5,9 @@
 I am a software engineer specializing in building high-end back-end services, web applications and systems using PYTHON and DJANGO. I solve problems, automate things, help businesses and people grow and improve their lives. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Telegram Badge](https://img.shields.io/badge/@MAKSUDKHOJA-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/MAKSUDKHOJA)](https://t.me/MAKSUDKHOJA)
-
-  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+
+
 
 - :computer: I'm currently working on Aiogram & DJANGO
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
@@ -27,7 +25,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-<h3>SOCIAL_NET</h3>
+## <h3>SOCIAL_NET</h3>
 <div align="left">
   <a href="https://t.me/MAKSUDKHOJA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
@@ -36,6 +34,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 
 ## ⚡ Technologies
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
