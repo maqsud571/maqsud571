@@ -61,6 +61,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MAQSUDXOJA&show_icons=true&theme=gotham" alt="maqsud571" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqsud571&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Maqsudxoja" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqsud571&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Maqsud571" /></a> </p>
