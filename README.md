@@ -68,6 +68,7 @@ Men **Strong Junior AI/ML va Backend Developer** sifatida Python asosida amaliy 
 
 ## Ulanish
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40murodxojayev1ch-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/murodxojayev1ch)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-maqsudxo1ja-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/maqsudxo1ja)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/murodxojayev1ch)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/maqsudxo1ja)
 [![GitHub](https://img.shields.io/badge/GitHub-maqsud571-181717?style=flat&logo=github&logoColor=white)](https://github.com/maqsud571)
+
