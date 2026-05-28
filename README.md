@@ -1,50 +1,90 @@
-<h1 align="center">Pyhton student</h1>
+# Hi, I'm Maqsud
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Strong Junior AI/ML & Backend Developer
 
-.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
+I build practical AI-powered backend systems with Python, FastAPI, machine learning, and Retrieval-Augmented Generation. My focus is turning ideas into working products: clean APIs, reliable data flows, vector search, LLM integration, and deployable services.
 
-.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.
+I am especially interested in AI assistants, document intelligence, semantic search, recommendation logic, and backend platforms that connect models with real users.
 
-　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　    🚀 　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 🌑 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
+---
 
-　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
+## What I Work With
 
+**AI / ML**
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## <h3>SOCIAL_NET</h3>
-<div align="left">
-  <a href="https://t.me/murodxojayev1ch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <a href="mailto:uzbpubgmm24@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href
-  </a>
-</div>
+**LLM / RAG / NLP**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0B7285?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge)
 
-## ⚡ Technologies
+**Backend / Databases / DevOps**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Core Strengths
+
+- Building REST APIs with **FastAPI** and **Django**
+- Designing **RAG pipelines**: chunking, embeddings, retrieval, reranking, prompt templates, and response generation
+- Working with **LLMs** through OpenAI, Hugging Face, and local model workflows
+- Creating AI features for **chatbots, search, document Q&A, summarization, and automation**
+- Training and evaluating ML models with **PyTorch, Scikit-learn, Pandas, and NumPy**
+- Structuring backend projects with clean code, environment configs, database models, and API documentation
+- Using **PostgreSQL, SQLite, Docker, Git, and GitHub** for real project workflows
+
+---
+
+## Current Focus
+
+- Production-style **AI backend systems**
+- RAG applications for documents, websites, and knowledge bases
+- NLP systems for Uzbek, English, and mixed-language text
+- Model evaluation, prompt quality, retrieval quality, and API performance
+- Clean project documentation and open-source portfolio growth
+
+---
+
+## Projects I Am Building
+
+| Project Type | What It Shows |
+| --- | --- |
+| **RAG Document Assistant** | PDF/document parsing, embeddings, vector search, LLM answers, FastAPI backend |
+| **AI Chatbot API** | Prompt engineering, conversation memory, API design, database storage |
+| **ML Prediction Service** | Data preprocessing, model training, evaluation, model serving |
+| **Backend Portfolio APIs** | Auth, CRUD, PostgreSQL, Docker, deployment-ready structure |
+
+---
+
+## GitHub Activity
+
+![Maqsud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqsud571&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maqsud571&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/murodxojayev1ch)
+[![GitHub](https://img.shields.io/badge/GitHub-maqsud571-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maqsud571)
+
+---
+
+### Short Bio
+
+Strong Junior AI/ML & Backend Developer focused on Python, FastAPI, machine learning, LLMs, RAG systems, and practical AI products.
