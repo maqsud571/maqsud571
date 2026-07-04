@@ -1,6 +1,6 @@
-# Sun'iy intellekt/ML va Backend muhandisi
+# AI/ML & Backend Engineer
 
-**AI backend tizimlari yaratish | LLMlar | RAG | NLP | FastAPI | PostgreSQL**
+**Building AI Backend Systems | LLMs | RAG | NLP | FastAPI | PostgreSQL**
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi&logoColor=white)
@@ -13,21 +13,22 @@
 
 ---
 
-## Haqida
+## About
 
-Men **Strong Junior AI/ML va Backend Developer** sifatida Python asosida amaliy AI tizimlar yaratishga ixtisoslashyapman. Asosiy fokusim - **LLM**, **RAG**, **NLP**, **semantic search**, **AI chatbotlar** va ularni real backend servislar bilan bog'lash.
+I am a **Strong Junior AI/ML & Backend Developer** specializing in building practical AI systems with Python. My primary focus is on **LLMs**, **RAG**, **NLP**, **semantic search**, **AI chatbots**, and integrating them with scalable backend services.
 
-- Hozirda **FastAPI**, **PostgreSQL**, **LangChain** va **Hugging Face** yordamida AI backend loyihalar qurmoqdaman
-- **RAG pipeline**: document loading, chunking, embeddings, vector search, retrieval va answer generation jarayonlarini tushunaman
-- **ML/NLP** yo'nalishida PyTorch, Scikit-learn, Transformers, Pandas va NumPy bilan ishlayman
-- Backend tomonda REST API, database models, auth, Docker, loyiha strukturasi va API documentation ustida ishlayman
-- Maqsadim - foydalanuvchiga haqiqiy qiymat beradigan AI mahsulotlar yaratish: document assistant, chatbot API, semantic search va ML xizmatlar
+- Currently building AI backend applications using **FastAPI**, **PostgreSQL**, **LangChain**, and **Hugging Face**
+- Experienced with the complete **RAG pipeline**, including document loading, chunking, embeddings, vector search, retrieval, and answer generation
+- Working with **PyTorch**, **Scikit-learn**, **Transformers**, **Pandas**, and **NumPy** for Machine Learning and NLP projects
+- Developing REST APIs, database models, authentication systems, Dockerized applications, clean project architectures, and API documentation
+- My goal is to build AI products that provide real value, including document assistants, chatbot APIs, semantic search systems, and ML-powered services
 
 ---
 
-## Texnologiyalar to'plami
+## Tech Stack
 
-**LLMlar va RAG**  
+### LLMs & RAG
+
 ![RAG](https://img.shields.io/badge/RAG-111827?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat)
@@ -38,7 +39,8 @@ Men **Strong Junior AI/ML va Backend Developer** sifatida Python asosida amaliy 
 ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat)
 ![pgvector](https://img.shields.io/badge/pgvector-111827?style=flat)
 
-**ML va chuqur o'rganish**  
+### Machine Learning & Deep Learning
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat&logo=scikitlearn&logoColor=F7931E)
 ![Transformers](https://img.shields.io/badge/Transformers-111827?style=flat)
@@ -46,7 +48,8 @@ Men **Strong Junior AI/ML va Backend Developer** sifatida Python asosida amaliy 
 ![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat&logo=numpy&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-111827?style=flat)
 
-**NLP va Document AI**  
+### NLP & Document AI
+
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-111827?style=flat)
 ![Text Classification](https://img.shields.io/badge/Text%20Classification-111827?style=flat)
 ![Summarization](https://img.shields.io/badge/Summarization-111827?style=flat)
@@ -54,7 +57,8 @@ Men **Strong Junior AI/ML va Backend Developer** sifatida Python asosida amaliy 
 ![Document Q&A](https://img.shields.io/badge/Document%20Q%26A-111827?style=flat)
 ![Uzbek NLP](https://img.shields.io/badge/Uzbek%20NLP-111827?style=flat)
 
-**Backend va ma'lumotlar**  
+### Backend & Databases
+
 ![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=3776AB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-111827?style=flat&logo=django&logoColor=white)
@@ -66,9 +70,8 @@ Men **Strong Junior AI/ML va Backend Developer** sifatida Python asosida amaliy 
 
 ---
 
-## Ulanish
+## Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/murodxojayev1ch)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/maqsudxo1ja)
 [![GitHub](https://img.shields.io/badge/GitHub-maqsud571-181717?style=flat&logo=github&logoColor=white)](https://github.com/maqsud571)
-
